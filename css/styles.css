@@ -1,0 +1,26 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.strikethrough{
+    text-decoration: line-through;
+}
+
+.binstyle {
+    font-size: 30px;
+    line-height: 45px;
+    color: red;
+}
+
+.taskblock {
+    border: 3px;
+    border-color: blueviolet;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 4px;
+    background-color: cornsilk;
+    display: grid;
+    grid-template-columns: 10% 80% 10%;
+}
